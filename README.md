@@ -9,9 +9,9 @@ We will use the MNIST dataset to train your model to classify handwritten digits
 
 The assignment is divided into the following sections:
 
-Data preparation
-Feedforward
-Loss computation
-Backpropagation
-Parameter updates
-Model training and predictions 
+Data preparation,
+Feedforward,
+Loss computation,
+Backpropagation,
+Parameter updates,
+Model training and predictions. 
